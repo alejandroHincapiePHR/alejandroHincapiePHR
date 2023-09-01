@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Hincapie</h1>
 <h3 align="center">Backend developer from Colombia</h3>
 
-- 🔭 I’m currently working on **ArkusNexus**
+- 🔭 I’m currently working at **ArkusNexus**
 
 - 📫 How to reach me **alh7867@gmail.com**
 
